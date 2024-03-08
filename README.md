@@ -1,4 +1,4 @@
-- Shoe-Store
+# Shoe-Store
 This will be the base code for creating a website using asp.net.
 Basically, this code has been added functionality to addtocart. Adding to cart, calculating the total amount based on the number of items, saving the state when leaving the page and returning remains.
 But still unable to add more effects, there are still errors occurring with the content of the Products page. Pagination and Login have not been implemented yet.
