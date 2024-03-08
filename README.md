@@ -4,24 +4,25 @@ Basically, this code has been added functionality to addtocart. Adding to cart, 
 But still unable to add more effects, there are still errors occurring with the content of the Products page. Pagination and Login have not been implemented yet.
 Needs adjustments, coordination of code for smoother frontend and backend operation.
 
-Update on November 28.
+#Update on November 28.
 We had a challenging day with asp.net
 Despite being very tired, I struggled with GitHub a few times too. But it's okay, it should be better now.
 
 Login/Logout is now functional. Register/Verification is also implemented.
 Introduction section for the website has been added.
 Contact section is now available, with a functional contact form.
-** Next steps:
 
+** Next steps:
 Improve button transitions for better user experience.
 Adjust the LoginForm to match the frontend.
 If possible, add additional features like sorting based on customer needs on the sort bar.
 Implement advanced pagination without page reload.
-** Update on December 2.
 
+** Update on December 2:
 Data has been migrated to Azure.
 Connection string is now used for data handling.
-** Update on December 3 - 2:45pm
+
+** Update on December 3: 
 CSS has been checked again.
 
 
